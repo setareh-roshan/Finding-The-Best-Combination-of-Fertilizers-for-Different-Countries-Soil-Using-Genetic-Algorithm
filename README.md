@@ -1,1 +1,2 @@
 # Finding-The-Best-Combination-of-Fertilizers-for-Different-Countries-Soil-Using-Genetic-Algorithm
+This project uses the DEAP library to optimize fertilizer combinations for different countries' soil types using Genetic Algorithms (GA). By simulating evolutionary processes such as selection, crossover, and mutation, DEAP efficiently finds optimal fertilizer solutions based on specific soil characteristics. The approach improves crop yields and sustainability by dynamically adapting to local soil conditions, offering a scalable solution for global agricultural optimization.
